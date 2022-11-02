@@ -21,8 +21,8 @@ but I will try best for next projects!
 
 ### Screenshot
 
-![](./result/result-mobile.png);
-![](./result/result-laptop.png);
+![](./result/result-mobile.png)
+![](./result/result-laptop.png)
 
 ### Links
 
