@@ -21,23 +21,27 @@ but I will try best for next projects!
 
 ### Screenshot
 
-- Result for Mobile
-  ![](./result/result-mobile.png)
+- Result for Mobile <br />
+  ![](./design/result/result-mobile.png)
 
-- Result for Laptop
-  ![](./result/result-laptop.png)
+- Result for Laptop <br />
+  ![](./design/result/result-laptop.png)
+
+  <br />
+
+I use device emulator to screenshot, it doesn't have desktop screen version for free user, so I just use Laptop screen right away. But I still make the component responsive for desktop screen too.
 
 ### Links
 
 - Solution URL: [https://github.com/maulanafadilah/qr-code]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://qr-code-maulanafadilah.vercel.app/]
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- TailwindCSS Framework (https://tailwindcss.com/)
+- Tailwind CSS Framework [https://tailwindcss.com/]
 - Mobile-first workflow
 - Flexbox
 
